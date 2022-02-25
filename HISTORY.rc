@@ -1,6 +1,6 @@
 EXPID:  OutputDir/GEOSChem
 EXPDSC: GEOS-Chem_devel
-CoresPerNode: 6
+CoresPerNode: 24
 VERSION: 1
 
 #==============================================================================
@@ -121,7 +121,7 @@ COLLECTIONS: #'AerosolMass',
   Emissions.template:       '%y4%m2%d2_%h2%n2z.nc4',
   Emissions.format:         'CFIO',
   Emissions.timestampStart: .true.
-  Emissions.monthly:        1
+  Emissions.monthly:        0
   Emissions.frequency:      010000
   Emissions.duration:       010000
   Emissions.mode:           'time-averaged'
@@ -589,7 +589,7 @@ COLLECTIONS: #'AerosolMass',
   AerosolMass.template:       '%y4%m2%d2_%h2%n2z.nc4',
   AerosolMass.format:         'CFIO',
   AerosolMass.timestampStart: .true.
-  AerosolMass.monthly:        1
+  AerosolMass.monthly:        0
   AerosolMass.frequency:      010000
   AerosolMass.duration:       010000
   AerosolMass.mode:           'time-averaged'
@@ -622,7 +622,7 @@ COLLECTIONS: #'AerosolMass',
   Aerosols.template:       '%y4%m2%d2_%h2%n2z.nc4',
   Aerosols.format:         'CFIO',
   Aerosols.timestampStart: .true.
-  Aerosols.monthly:        1
+  Aerosols.monthly:        0
   Aerosols.frequency:      010000
   Aerosols.duration:       010000
   Aerosols.mode:           'time-averaged'
@@ -735,7 +735,7 @@ COLLECTIONS: #'AerosolMass',
   Budget.template:        '%y4%m2%d2_%h2%n2z.nc4',
   Budget.format:          'CFIO',
   Budget.timestampStart:  .true.
-  Budget.monthly:         1
+  Budget.monthly:         0
   Budget.frequency:       010000
   Budget.duration:        010000
   Budget.mode:            'time-averaged'
@@ -3859,7 +3859,7 @@ COLLECTIONS: #'AerosolMass',
   CloudConvFlux.template:       '%y4%m2%d2_%h2%n2z.nc4',
   CloudConvFlux.format:         'CFIO',
   CloudConvFlux.timestampStart: .true.
-  CloudConvFlux.monthly:        1
+  CloudConvFlux.monthly:        0
   CloudConvFlux.frequency:      010000
   CloudConvFlux.duration:       010000
   CloudConvFlux.mode:           'time-averaged'
@@ -4124,7 +4124,7 @@ COLLECTIONS: #'AerosolMass',
   ConcAfterChem.template:       '%y4%m2%d2_%h2%n2z.nc4',
   ConcAfterChem.format:         'CFIO',
   ConcAfterChem.timestampStart: .true.
-  ConcAfterChem.monthly:        1
+  ConcAfterChem.monthly:        0
   ConcAfterChem.frequency:      010000
   ConcAfterChem.duration:       010000
   ConcAfterChem.mode:           'time-averaged'
@@ -4143,7 +4143,7 @@ COLLECTIONS: #'AerosolMass',
   DryDep.template:        '%y4%m2%d2_%h2%n2z.nc4',
   DryDep.format:          'CFIO',
   DryDep.timestampStart:  .true.
-  DryDep.monthly:         1
+  DryDep.monthly:         0
   DryDep.frequency:       010000
   DryDep.duration:        010000
   DryDep.mode:            'time-averaged'
@@ -4484,7 +4484,7 @@ COLLECTIONS: #'AerosolMass',
   JValues.template:       '%y4%m2%d2_%h2%n2z.nc4',
   JValues.format:         'CFIO',
   JValues.timestampStart: .true.
-  JValues.monthly:        1
+  JValues.monthly:        0
   JValues.frequency:      010000
   JValues.duration:       010000
   JValues.mode:           'time-averaged'
@@ -4692,7 +4692,7 @@ COLLECTIONS: #'AerosolMass',
   KppDiags.template:       '%y4%m2%d2_%h2%n2z.nc4',
   KppDiags.format:         'CFIO',
   KppDiags.timestampStart: .true.
-  KppDiags.monthly:        1
+  KppDiags.monthly:        0
   KppDiags.frequency:      010000
   KppDiags.duration:       010000
   KppDiags.mode:           'time-averaged'
@@ -4719,7 +4719,7 @@ COLLECTIONS: #'AerosolMass',
   Metrics.template:           '%y4%m2%d2_%h2%n2z.nc4',
   Metrics.format:             'CFIO',
   Metrics.timestampStart:     .true.
-  Metrics.monthly:            1
+  Metrics.monthly:            0
   Metrics.frequency:          010000
   Metrics.duration:           010000
   Metrics.mode:               'time-averaged'
@@ -4738,7 +4738,7 @@ COLLECTIONS: #'AerosolMass',
   LevelEdgeDiags.template:       '%y4%m2%d2_%h2%n2z.nc4',
   LevelEdgeDiags.format:         'CFIO',
   LevelEdgeDiags.timestampStart: .true.
-  LevelEdgeDiags.monthly:        1
+  LevelEdgeDiags.monthly:        0
   LevelEdgeDiags.frequency:      010000
   LevelEdgeDiags.duration:       010000
   LevelEdgeDiags.mode:           'time-averaged'
@@ -4760,7 +4760,7 @@ COLLECTIONS: #'AerosolMass',
   ProdLoss.template:       '%y4%m2%d2_%h2%n2z.nc4',
   ProdLoss.format:         'CFIO',
   ProdLoss.timestampStart: .true.
-  ProdLoss.monthly:        1
+  ProdLoss.monthly:        0
   ProdLoss.frequency:      010000
   ProdLoss.duration:       010000
   ProdLoss.mode:           'time-averaged'
@@ -4796,7 +4796,7 @@ COLLECTIONS: #'AerosolMass',
   RRTMG.template:       '%y4%m2%d2_%h2%n2z.nc4',
   RRTMG.format:         'CFIO',
   RRTMG.timestampStart: .true.
-  RRTMG.monthly:        1
+  RRTMG.monthly:        0
   RRTMG.frequency:      010000
   RRTMG.duration:       010000
   RRTMG.mode:           'time-averaged'
@@ -4954,7 +4954,7 @@ COLLECTIONS: #'AerosolMass',
   SpeciesConc.template:       '%y4%m2%d2_%h2%n2z.nc4',
   SpeciesConc.format:         'CFIO',
   SpeciesConc.timestampStart: .true.
-  SpeciesConc.monthly:        1
+  SpeciesConc.monthly:        0
   SpeciesConc.frequency:      010000
   SpeciesConc.duration:       010000
   SpeciesConc.mode:           'time-averaged'
@@ -5313,7 +5313,7 @@ COLLECTIONS: #'AerosolMass',
   StateMet.template:       '%y4%m2%d2_%h2%n2z.nc4',
   StateMet.format:         'CFIO',
   StateMet.timestampStart: .true.
-  StateMet.monthly:        1
+  StateMet.monthly:        0
   StateMet.frequency:      010000
   StateMet.duration:       010000
   StateMet.mode:           'time-averaged'
@@ -5432,7 +5432,7 @@ COLLECTIONS: #'AerosolMass',
   WetLossConv.template:       '%y4%m2%d2_%h2%n2z.nc4',
   WetLossConv.format:         'CFIO',
   WetLossConv.timestampStart: .true.
-  WetLossConv.monthly:        1
+  WetLossConv.monthly:        0
   WetLossConv.frequency:      010000
   WetLossConv.duration:       010000
   WetLossConv.mode:           'time-averaged'
@@ -5741,7 +5741,7 @@ COLLECTIONS: #'AerosolMass',
   WetLossLS.template:       '%y4%m2%d2_%h2%n2z.nc4',
   WetLossLS.format:         'CFIO',
   WetLossLS.timestampStart: .true.
-  WetLossLS.monthly:        1
+  WetLossLS.monthly:        0
   WetLossLS.frequency:      010000
   WetLossLS.duration:       010000
   WetLossLS.mode:           'time-averaged'

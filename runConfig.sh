@@ -88,7 +88,7 @@ Duration="00000000 010000"
 #------------------------------------------------
 #    Initial restart file
 #------------------------------------------------
-INITIAL_RESTART=initial_GEOSChem_rst.c${CS_RES}_fullchem.nc
+INITIAL_RESTART=GCHP_restart.nc4
 #
 # By default the linked restart files in the run directories will be 
 # used. You can specify a custom initial restart file by overwriting the

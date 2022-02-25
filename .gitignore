@@ -17,3 +17,5 @@ fort.11
 geos
 setEnvironment
 *.out
+runScriptSamples
+utils/
