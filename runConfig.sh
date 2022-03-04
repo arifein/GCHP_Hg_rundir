@@ -43,9 +43,9 @@
 #------------------------------------------------
 #   Compute resources
 #------------------------------------------------
-TOTAL_CORES=24
+TOTAL_CORES=6
 NUM_NODES=1
-NUM_CORES_PER_NODE=24
+NUM_CORES_PER_NODE=6
 # Set number of cores, number of nodes, and number of cores per node.
 # Total cores must be divisible by 6. Cores per node must equal number
 # of cores divided by number of nodes. Make sure you have these

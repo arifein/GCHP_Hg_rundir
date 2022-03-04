@@ -1,7 +1,7 @@
 # Atmospheric Model Configuration Parameters
 # ------------------------------------------
-NX: 2
-NY: 12
+NX: 1
+NY: 6
 
 GCHP.GRID_TYPE: Cubed-Sphere
 GCHP.GRIDNAME: PE24x144-CF

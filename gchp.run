@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#SBATCH -n 60 
-#SBATCH -N 2
+#SBATCH -n 6
+#SBATCH -N 1
 #SBATCH -t 0-0:10
-#SBATCH -p edr
-#SBATCH --mem=110000
+#SBATCH -p fdr
+#SBATCH --mem=32000
 #SBATCH --mail-type=ALL
 
 # See SLURM documentation for descriptions of all possible settings.
@@ -31,7 +31,7 @@ if [ -f cap_restart ]; then
 else
    nCS=$( grep CS_RES= runConfig.sh | cut -d= -f 2 | awk '{print $1}' )
 #   restart_file=initial_GEOSChem_rst.c${nCS}_cam26_standard.nc
-   restart_file=initial_GEOSChem_rst.c${nCS}_fullchem.nc
+   restart_file=initial_GEOSChem_c${nCS}_Hg.nc
 fi
 
 if [[ -L GCHP_restart.nc4 ]]; then
