@@ -97,7 +97,7 @@ Preindustrial sim?      : F
 Use GTMM soil model?    : F
 GTMM Hg rst file (bpch) : GTM.totHg.YYYYMMDDhh
 Use Arctic river Hg?    : T
-Tie HgII(aq) red to UVB?: T
+Tie HgII(aq) red to UVB?: F
 ------------------------+------------------------------------------------------
 ###############################################################################
 #####  THE FOLLOWING MENUS ARE ONLY READ WHEN YOU COMPILE GEOS-Chem       #####
