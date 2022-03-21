@@ -333,9 +333,9 @@ AMAP_INTW_HGP  kg/m2/s N Y - none none HgP ./HcoDir/MERCURY/v2014-09/AMAP/AMAP_i
 #==============================================================================
 # --- WHET emissions inventory ---
 #==============================================================================
-WHET_HG0  kg/m2/s N Y - none none Hg0 ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x1.2010_final.nc
-WHET_HG2  kg/m2/s N Y - none none Hg2 ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x1.2010_final.nc
-WHET_HGP  kg/m2/s N Y - none none HgP ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x1.2010_final.nc
+# WHET_HG0  kg/m2/s N Y - none none Hg0 ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x1.2010_final.nc
+# WHET_HG2  kg/m2/s N Y - none none Hg2 ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x1.2010_final.nc
+# WHET_HGP  kg/m2/s N Y - none none HgP ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x1.2010_final.nc
 
 #==============================================================================
 # --- Streets et al. 2019 emissions inventory ---
@@ -494,14 +494,14 @@ JNO2  1 N Y F%y4-%m2-01T00:00:00 none none Jval_NO2 ./HcoDir/GCClassic_Output/13
 #==============================================================================
 # --- Aerosol data for Hg2 partitioning ---
 #==============================================================================
-GLOBAL_SO4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_SO4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_NH4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NH4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_BCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_BCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_OCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_OCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_DST1  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_DST1 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_SO4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_SO4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_NH4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NH4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_BCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_BCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_OCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_OCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_DST1  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_DST1 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
 
 #==============================================================================
 # --- Data for the ocean mercury module ---
@@ -548,9 +548,7 @@ TOMS_O3_LT   dobsons Y Y F1985-%m2-01T00:00:00 none none TOMS_LT ./HcoDir/TOMS_S
 #==============================================================================
 USA_MASK    1 N Y - none none MASK ./HcoDir/MASKS/v2014-07/USA_mask.geos.1x1.nc
 CHINA_MASK  1 N Y - none none MASK ./HcoDir/MASKS/v2014-07/China_mask.generic.1x1.nc
-INDIA_MASK  1 N Y - none none MASK ./HcoDir/MASKS/v2014-07/India_mask.generic.1x1.nc
-CANADA_MASK 1 N Y - none none MASK ./HcoDir/MASKS/v2014-07/Canada_mask.generic.1x1.nc
-EUROPE_MASK  1 N Y - none none MASK ./HcoDir/MASKS/v2014-07/EU_mask.generic.1x1.nc
+CANADA_MASK 1 N Y - none none MASK ./HcoDir/MASKS/v2014-07/Canada_mask.gen.1x1.nc
 #
 %%
 

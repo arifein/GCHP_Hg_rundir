@@ -37,8 +37,8 @@ Separator:                   /
 Unit tolerance:              1
 Negative values:             0
 Only unitless scale factors: false
-Verbose:                     0
-Warnings:                    1
+Verbose:                     3 
+Warnings:                    3
 
 ### END SECTION SETTINGS ###
 
@@ -61,10 +61,10 @@ Warnings:                    1
     --> CHAKRABORTY            :       false    # 2010
     --> EMISS_CONTROLS         :       false    # 2010
 # ----- GLOBAL INVENTORIES ------------------------------------
-    --> AMAP_COMB              :       false    # 2010
-    --> AMAP_INDS              :       false    # 2010
-    --> AMAP_INTW              :       false    # 2010
-    --> WHET                   :       true     # 2010
+    --> AMAP_COMB              :       true    # 2010
+    --> AMAP_INDS              :       true    # 2010
+    --> AMAP_INTW              :       true    # 2010
+    --> WHET                   :       false    # 2010
     --> STREETS                :       false    # 2015
     --> ARTISANAL              :       false    # 1985
     --> NATURAL                :       true     # 1985
@@ -83,6 +83,20 @@ Warnings:                    1
     --> EDGAR_SHIP             :       false    # 1970-2012
     --> EDGAR_TRO              :       false    # 1970-2012
     --> EDGAR_WASTE            :       false    # 1970-2012
+# ----- NON-EMISSIONS DATA ------------------------------------
+    --> OXIDANT_FIELDS         :       true     # 2010-2019
+    --> BrOx_GC                :       true     # 2010-2019
+    --> JBrO                   :       true     # 2010-2019
+    --> LRED_JNO2              :       true     # 2005
+    --> AERO_HG2_PARTITION     :       true     # 2010-2019
+    --> OCEAN_Hg               :       true     # 1985,2003,2009
+    --> TOMS_SBUV_O3           :       false    # 1971-2010
+    --> LHALOGENCHEM           :       true
+    --> LHGAQCHEM              :       true
+    --> LOHO3CHEM              :       false
+    --> LRED_INPLUME           :       false
+    --> OLSON_LANDMAP          :       false     # 1985
+    --> YUAN_MODIS_LAI         :       false     # 2000-2020
 # ----- BIOMASS BURNING EMISSIONS -----------------------------
 111     GFED              : on    Hg0
     --> GFED4             :       true
@@ -99,20 +113,6 @@ Warnings:                    1
     --> hydrophilic BC    :       0.2
     --> hydrophilic OC    :       0.5
     --> Scaling_Hg0       :       7.16e-7
-# ----- NON-EMISSIONS DATA ------------------------------------
-    --> OXIDANT_FIELDS         :       true     # 2010-2019
-    --> BrOx_GC                :       true     # 2010-2019
-    --> JBrO                   :       true     # 2010-2019
-    --> LRED_JNO2              :       true     # 2005
-    --> AERO_HG2_PARTITION     :       true     # 2010-2019
-    --> OCEAN_Hg               :       true     # 1985,2003,2009
-    --> TOMS_SBUV_O3           :       false     # 1971-2010
-    --> LHALOGENCHEM           :       true
-    --> LHGAQCHEM              :       true
-    --> LOHO3CHEM              :       false
-    --> LRED_INPLUME           :       false
-    --> OLSON_LANDMAP          :       true     # 1985
-    --> YUAN_MODIS_LAI         :       true     # 2000-2020
 # ----------------------------------------------------------------------------
 # NOTE: Changing these options will require a change in reduction rate in order
 #       to maintain agreement with observations. Please see wiki for details
@@ -776,9 +776,9 @@ Warnings:                    1
 #==============================================================================
 1005 USA_MASK    $ROOT/MASKS/v2014-07/USA_mask.geos.1x1.nc      MASK 1985/1/1/0 C xy 1 1 -140/10/-40/70
 1006 CHINA_MASK  $ROOT/MASKS/v2014-07/China_mask.generic.1x1.nc MASK 1985/1/1/0 C xy 1 1 70/15/125/50
-1007 INDIA_MASK  $ROOT/MASKS/v2014-07/India_mask.generic.1x1.nc MASK 1985/1/1/0 C xy 1 1 65/5/100/35
+# 1007 INDIA_MASK  $ROOT/MASKS/v2014-07/India_mask.generic.1x1.nc MASK 1985/1/1/0 C xy 1 1 65/5/100/35
 1008 CANADA_MASK $ROOT/MASKS/v2014-07/Canada_mask.gen.1x1.nc    MASK 2000/1/1/0 C xy 1 1 -130/45/-50/85
-1009 EUROPE_MASK $ROOT/MASKS/v2014-07/EU_mask.generic.1x1.nc    MASK 1985/1/1/0 C xy 1 1 20/35/50/80
+# 1009 EUROPE_MASK $ROOT/MASKS/v2014-07/EU_mask.generic.1x1.nc    MASK 1985/1/1/0 C xy 1 1 20/35/50/80
 
 ### END SECTION MASKS ###
 

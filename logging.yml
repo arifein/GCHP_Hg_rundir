@@ -92,7 +92,7 @@ loggers:
    CAP.EXTDATA:
        handlers: [mpi_shared]
        level: WARNING
-       root_level: WARNING
+       root_level: DEBUG
        propagate: false
        
   # Note: When enabling another logger, make sure
