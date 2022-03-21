@@ -52,7 +52,7 @@ Warnings:                    1
     --> METEOROLOGY            :       false    # 1980-2021
     --> CHEMISTRY_INPUT        :       true
 # ----- RESTART FIELDS ----------------------------------------
-    --> GC_RESTART             :       true
+    --> GC_RESTART             :       false
     --> HEMCO_RESTART          :       false
 # ----- NESTED GRID FIELDS ------------------------------------
     --> GC_BCs                 :       false    # 1980-2021

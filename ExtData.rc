@@ -143,154 +143,154 @@ CONV_DEPTH 1 N Y F0;013000 none none CTH   ./HcoDir/OFFLINE_LIGHTNING/v2020-03/M
 # Olson land types
 #==============================================================================
 # Use conservative fraction regridding to extract land type fraction
-#OLSON00 1 N F;0  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON01 1 N F;1  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON02 1 N F;2  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON03 1 N F;3  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON04 1 N F;4  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON05 1 N F;5  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON06 1 N F;6  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON07 1 N F;7  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON08 1 N F;8  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON09 1 N F;9  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON10 1 N F;10 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON11 1 N F;11 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON12 1 N F;12 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON13 1 N F;13 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON14 1 N F;14 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON15 1 N F;15 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON16 1 N F;16 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON17 1 N F;17 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON18 1 N F;18 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON19 1 N F;19 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON20 1 N F;20 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON21 1 N F;21 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON22 1 N F;22 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON23 1 N F;23 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON24 1 N F;24 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON25 1 N F;25 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON26 1 N F;26 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON27 1 N F;27 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON28 1 N F;28 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON29 1 N F;29 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON30 1 N F;30 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON31 1 N F;31 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON32 1 N F;32 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON33 1 N F;33 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON34 1 N F;34 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON35 1 N F;35 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON36 1 N F;36 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON37 1 N F;37 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON38 1 N F;38 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON39 1 N F;39 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON40 1 N F;40 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON41 1 N F;41 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON42 1 N F;42 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON43 1 N F;43 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON44 1 N F;44 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON45 1 N F;45 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON46 1 N F;46 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON47 1 N F;47 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON48 1 N F;48 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON49 1 N F;49 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON50 1 N F;50 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON51 1 N F;51 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON52 1 N F;52 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON53 1 N F;53 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON54 1 N F;54 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON55 1 N F;55 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON56 1 N F;56 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON57 1 N F;57 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON58 1 N F;58 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON59 1 N F;59 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON60 1 N F;60 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON61 1 N F;61 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON62 1 N F;62 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON63 1 N F;63 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON64 1 N F;64 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON65 1 N F;65 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON66 1 N F;66 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON67 1 N F;67 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON68 1 N F;68 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON69 1 N F;69 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON70 1 N F;70 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON71 1 N F;71 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
-#OLSON72 1 N F;72 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON00 1 N F;0  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON01 1 N F;1  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON02 1 N F;2  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON03 1 N F;3  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON04 1 N F;4  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON05 1 N F;5  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON06 1 N F;6  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON07 1 N F;7  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON08 1 N F;8  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON09 1 N F;9  - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON10 1 N F;10 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON11 1 N F;11 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON12 1 N F;12 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON13 1 N F;13 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON14 1 N F;14 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON15 1 N F;15 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON16 1 N F;16 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON17 1 N F;17 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON18 1 N F;18 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON19 1 N F;19 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON20 1 N F;20 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON21 1 N F;21 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON22 1 N F;22 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON23 1 N F;23 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON24 1 N F;24 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON25 1 N F;25 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON26 1 N F;26 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON27 1 N F;27 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON28 1 N F;28 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON29 1 N F;29 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON30 1 N F;30 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON31 1 N F;31 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON32 1 N F;32 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON33 1 N F;33 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON34 1 N F;34 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON35 1 N F;35 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON36 1 N F;36 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON37 1 N F;37 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON38 1 N F;38 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON39 1 N F;39 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON40 1 N F;40 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON41 1 N F;41 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON42 1 N F;42 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON43 1 N F;43 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON44 1 N F;44 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON45 1 N F;45 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON46 1 N F;46 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON47 1 N F;47 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON48 1 N F;48 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON49 1 N F;49 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON50 1 N F;50 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON51 1 N F;51 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON52 1 N F;52 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON53 1 N F;53 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON54 1 N F;54 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON55 1 N F;55 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON56 1 N F;56 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON57 1 N F;57 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON58 1 N F;58 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON59 1 N F;59 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON60 1 N F;60 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON61 1 N F;61 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON62 1 N F;62 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON63 1 N F;63 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON64 1 N F;64 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON65 1 N F;65 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON66 1 N F;66 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON67 1 N F;67 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON68 1 N F;68 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON69 1 N F;69 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON70 1 N F;70 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON71 1 N F;71 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
+OLSON72 1 N F;72 - none none OLSON ./ChemDir/Olson_Land_Map_201203/Olson_2001_Land_Map.025x025.generic.nc
 #
 # Alternatively read files containing land type masks. This implementation needs further testing to assess relative performance. AF: This is what's used in mercury code?
-LANDTYPE00 1 N Y - none none LANDTYPE00 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE01 1 N Y - none none LANDTYPE01 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE02 1 N Y - none none LANDTYPE02 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE03 1 N Y - none none LANDTYPE03 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE04 1 N Y - none none LANDTYPE04 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE05 1 N Y - none none LANDTYPE05 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE06 1 N Y - none none LANDTYPE06 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE07 1 N Y - none none LANDTYPE07 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE08 1 N Y - none none LANDTYPE08 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE09 1 N Y - none none LANDTYPE09 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE10 1 N Y - none none LANDTYPE10 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE11 1 N Y - none none LANDTYPE11 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE12 1 N Y - none none LANDTYPE12 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE13 1 N Y - none none LANDTYPE13 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE14 1 N Y - none none LANDTYPE14 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE15 1 N Y - none none LANDTYPE15 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE16 1 N Y - none none LANDTYPE16 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE17 1 N Y - none none LANDTYPE17 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE18 1 N Y - none none LANDTYPE18 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE19 1 N Y - none none LANDTYPE19 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE20 1 N Y - none none LANDTYPE20 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE21 1 N Y - none none LANDTYPE21 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE22 1 N Y - none none LANDTYPE22 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE23 1 N Y - none none LANDTYPE23 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE24 1 N Y - none none LANDTYPE24 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE25 1 N Y - none none LANDTYPE25 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE26 1 N Y - none none LANDTYPE26 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE27 1 N Y - none none LANDTYPE27 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE28 1 N Y - none none LANDTYPE28 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE29 1 N Y - none none LANDTYPE29 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE30 1 N Y - none none LANDTYPE30 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE31 1 N Y - none none LANDTYPE31 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE32 1 N Y - none none LANDTYPE32 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE33 1 N Y - none none LANDTYPE33 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE34 1 N Y - none none LANDTYPE34 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE35 1 N Y - none none LANDTYPE35 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE36 1 N Y - none none LANDTYPE36 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE37 1 N Y - none none LANDTYPE37 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE38 1 N Y - none none LANDTYPE38 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE39 1 N Y - none none LANDTYPE39 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE40 1 N Y - none none LANDTYPE40 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE41 1 N Y - none none LANDTYPE41 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE42 1 N Y - none none LANDTYPE42 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE43 1 N Y - none none LANDTYPE43 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE44 1 N Y - none none LANDTYPE44 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE45 1 N Y - none none LANDTYPE45 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE46 1 N Y - none none LANDTYPE46 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE47 1 N Y - none none LANDTYPE47 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE48 1 N Y - none none LANDTYPE48 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE49 1 N Y - none none LANDTYPE49 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE50 1 N Y - none none LANDTYPE50 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE51 1 N Y - none none LANDTYPE51 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE52 1 N Y - none none LANDTYPE52 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE53 1 N Y - none none LANDTYPE53 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE54 1 N Y - none none LANDTYPE54 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE55 1 N Y - none none LANDTYPE55 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE56 1 N Y - none none LANDTYPE56 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE57 1 N Y - none none LANDTYPE57 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE58 1 N Y - none none LANDTYPE58 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE59 1 N Y - none none LANDTYPE59 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE60 1 N Y - none none LANDTYPE60 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE61 1 N Y - none none LANDTYPE61 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE62 1 N Y - none none LANDTYPE62 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE63 1 N Y - none none LANDTYPE63 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE64 1 N Y - none none LANDTYPE64 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE65 1 N Y - none none LANDTYPE65 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE66 1 N Y - none none LANDTYPE66 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE67 1 N Y - none none LANDTYPE67 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE68 1 N Y - none none LANDTYPE68 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE69 1 N Y - none none LANDTYPE69 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE70 1 N Y - none none LANDTYPE70 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE71 1 N Y - none none LANDTYPE71 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
-LANDTYPE72 1 N Y - none none LANDTYPE72 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE00 1 N Y - none none LANDTYPE00 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE01 1 N Y - none none LANDTYPE01 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE02 1 N Y - none none LANDTYPE02 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE03 1 N Y - none none LANDTYPE03 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE04 1 N Y - none none LANDTYPE04 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE05 1 N Y - none none LANDTYPE05 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE06 1 N Y - none none LANDTYPE06 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE07 1 N Y - none none LANDTYPE07 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE08 1 N Y - none none LANDTYPE08 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE09 1 N Y - none none LANDTYPE09 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE10 1 N Y - none none LANDTYPE10 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE11 1 N Y - none none LANDTYPE11 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE12 1 N Y - none none LANDTYPE12 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE13 1 N Y - none none LANDTYPE13 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE14 1 N Y - none none LANDTYPE14 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE15 1 N Y - none none LANDTYPE15 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE16 1 N Y - none none LANDTYPE16 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE17 1 N Y - none none LANDTYPE17 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE18 1 N Y - none none LANDTYPE18 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE19 1 N Y - none none LANDTYPE19 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE20 1 N Y - none none LANDTYPE20 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE21 1 N Y - none none LANDTYPE21 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE22 1 N Y - none none LANDTYPE22 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE23 1 N Y - none none LANDTYPE23 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE24 1 N Y - none none LANDTYPE24 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE25 1 N Y - none none LANDTYPE25 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE26 1 N Y - none none LANDTYPE26 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE27 1 N Y - none none LANDTYPE27 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE28 1 N Y - none none LANDTYPE28 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE29 1 N Y - none none LANDTYPE29 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE30 1 N Y - none none LANDTYPE30 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE31 1 N Y - none none LANDTYPE31 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE32 1 N Y - none none LANDTYPE32 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE33 1 N Y - none none LANDTYPE33 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE34 1 N Y - none none LANDTYPE34 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE35 1 N Y - none none LANDTYPE35 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE36 1 N Y - none none LANDTYPE36 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE37 1 N Y - none none LANDTYPE37 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE38 1 N Y - none none LANDTYPE38 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE39 1 N Y - none none LANDTYPE39 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE40 1 N Y - none none LANDTYPE40 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE41 1 N Y - none none LANDTYPE41 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE42 1 N Y - none none LANDTYPE42 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE43 1 N Y - none none LANDTYPE43 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE44 1 N Y - none none LANDTYPE44 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE45 1 N Y - none none LANDTYPE45 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE46 1 N Y - none none LANDTYPE46 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE47 1 N Y - none none LANDTYPE47 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE48 1 N Y - none none LANDTYPE48 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE49 1 N Y - none none LANDTYPE49 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE50 1 N Y - none none LANDTYPE50 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE51 1 N Y - none none LANDTYPE51 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE52 1 N Y - none none LANDTYPE52 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE53 1 N Y - none none LANDTYPE53 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE54 1 N Y - none none LANDTYPE54 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE55 1 N Y - none none LANDTYPE55 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE56 1 N Y - none none LANDTYPE56 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE57 1 N Y - none none LANDTYPE57 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE58 1 N Y - none none LANDTYPE58 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE59 1 N Y - none none LANDTYPE59 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE60 1 N Y - none none LANDTYPE60 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE61 1 N Y - none none LANDTYPE61 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE62 1 N Y - none none LANDTYPE62 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE63 1 N Y - none none LANDTYPE63 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE64 1 N Y - none none LANDTYPE64 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE65 1 N Y - none none LANDTYPE65 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE66 1 N Y - none none LANDTYPE66 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE67 1 N Y - none none LANDTYPE67 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE68 1 N Y - none none LANDTYPE68 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE69 1 N Y - none none LANDTYPE69 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE70 1 N Y - none none LANDTYPE70 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE71 1 N Y - none none LANDTYPE71 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
+# LANDTYPE72 1 N Y - none none LANDTYPE72 ./HcoDir/OLSON_MAP/v2019-02/Olson_2001_Land_Type_Masks.025x025.generic.nc
 #
 #==============================================================================
 # Yuan-processed MODIS Leaf Area Index
@@ -345,55 +345,55 @@ WHET_HGP  kg/m2/s N Y - none none HgP ./HcoDir/MERCURY/v2018-04/WHET_Hg0.geos.1x
 # EDGAR emissions inventory
 # Either use total (all sectors) or individual sectors, but not both
 #==============================================================================
-EDGAR_TOT_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_totals_$YYYY_Hg.nc
-EDGAR_TOT_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_totals_$YYYY_Hg.nc
-EDGAR_TOT_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_totals_$YYYY_Hg.nc
+EDGAR_TOT_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_totals_%y4_Hg.nc
+EDGAR_TOT_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_totals_%y4_Hg.nc
+EDGAR_TOT_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_totals_%y4_Hg.nc
 
-EDGAR_CEM_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_cement_$YYYY_Hg.nc
-EDGAR_CEM_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_cement_$YYYY_Hg.nc
-EDGAR_CEM_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_cement_$YYYY_Hg.nc
+EDGAR_CEM_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_cement_%y4_Hg.nc
+EDGAR_CEM_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_cement_%y4_Hg.nc
+EDGAR_CEM_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_cement_%y4_Hg.nc
 
-EDGAR_CHLOR_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_chlor_$YYYY_Hg.nc
-EDGAR_CHLOR_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_chlor_$YYYY_Hg.nc
-EDGAR_CHLOR_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_chlor_$YYYY_Hg.nc
+EDGAR_CHLOR_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_chlor_%y4_Hg.nc
+EDGAR_CHLOR_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_chlor_%y4_Hg.nc
+EDGAR_CHLOR_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_chlor_%y4_Hg.nc
 
-EDGAR_COMB_A_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_comb_power_ind_$YYYY_Hg.nc
-EDGAR_COMB_A_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_comb_power_ind_$YYYY_Hg.nc
-EDGAR_COMB_A_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_comb_power_ind_$YYYY_Hg.nc
+EDGAR_COMB_A_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_comb_power_ind_%y4_Hg.nc
+EDGAR_COMB_A_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_comb_power_ind_%y4_Hg.nc
+EDGAR_COMB_A_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_comb_power_ind_%y4_Hg.nc
 
-EDGAR_COMB_B_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_comb_res_oth_$YYYY_Hg.nc
-EDGAR_COMB_B_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_comb_res_oth_$YYYY_Hg.nc
-EDGAR_COMB_B_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_comb_res_oth_$YYYY_Hg.nc
+EDGAR_COMB_B_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_comb_res_oth_%y4_Hg.nc
+EDGAR_COMB_B_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_comb_res_oth_%y4_Hg.nc
+EDGAR_COMB_B_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_comb_res_oth_%y4_Hg.nc
 
-EDGAR_GLASS_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_glass_$YYYY_Hg.nc
-EDGAR_GLASS_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_glass_$YYYY_Hg.nc
-EDGAR_GLASS_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_glass_$YYYY_Hg.nc
+EDGAR_GLASS_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_glass_%y4_Hg.nc
+EDGAR_GLASS_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_glass_%y4_Hg.nc
+EDGAR_GLASS_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_glass_%y4_Hg.nc
 
-EDGAR_GOLDA_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_gold_A_$YYYY_Hg.nc
+EDGAR_GOLDA_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_gold_A_%y4_Hg.nc
 
-EDGAR_GOLDB_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_gold_L_$YYYY_Hg.nc
-EDGAR_GOLDB_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_gold_L_$YYYY_Hg.nc
-EDGAR_GOLDB_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_gold_L_$YYYY_Hg.nc
+EDGAR_GOLDB_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_gold_L_%y4_Hg.nc
+EDGAR_GOLDB_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_gold_L_%y4_Hg.nc
+EDGAR_GOLDB_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_gold_L_%y4_Hg.nc
 
-EDGAR_IRO_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_Iro_$YYYY_Hg.nc
-EDGAR_IRO_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_Iro_$YYYY_Hg.nc
-EDGAR_IRO_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_Iro_$YYYY_Hg.nc
+EDGAR_IRO_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_Iro_%y4_Hg.nc
+EDGAR_IRO_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_Iro_%y4_Hg.nc
+EDGAR_IRO_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_Iro_%y4_Hg.nc
 
-EDGAR_NFEOTH_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_nfe_oth_$YYYY_Hg.nc
-EDGAR_NFEOTH_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_nfe_oth_$YYYY_Hg.nc
-EDGAR_NFEOTH_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_nfe_oth_$YYYY_Hg.nc
+EDGAR_NFEOTH_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_nfe_oth_%y4_Hg.nc
+EDGAR_NFEOTH_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_nfe_oth_%y4_Hg.nc
+EDGAR_NFEOTH_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_nfe_oth_%y4_Hg.nc
 
-EDGAR_SHIP_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_shipping_$YYYY_Hg.nc
-EDGAR_SHIP_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_shipping_$YYYY_Hg.nc
-EDGAR_SHIP_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_shipping_$YYYY_Hg.nc
+EDGAR_SHIP_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_shipping_%y4_Hg.nc
+EDGAR_SHIP_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_shipping_%y4_Hg.nc
+EDGAR_SHIP_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_shipping_%y4_Hg.nc
 
-EDGAR_TRO_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_tro_roa_$YYYY_Hg.nc
-EDGAR_TRO_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_tro_roa_$YYYY_Hg.nc
-EDGAR_TRO_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_tro_roa_$YYYY_Hg.nc
+EDGAR_TRO_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_tro_roa_%y4_Hg.nc
+EDGAR_TRO_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_tro_roa_%y4_Hg.nc
+EDGAR_TRO_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_tro_roa_%y4_Hg.nc
 
-EDGAR_WASTE_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_waste_$YYYY_Hg.nc
-EDGAR_WASTE_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_waste_$YYYY_Hg.nc
-EDGAR_WASTE_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/$YYYY/EDGAR_waste_$YYYY_Hg.nc
+EDGAR_WASTE_HG0  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_g ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_waste_%y4_Hg.nc
+EDGAR_WASTE_HG2  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_d ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_waste_%y4_Hg.nc
+EDGAR_WASTE_HGP  kg/m2/s N Y F%y4-01-01T00:00:00 none none emi_hg_p ./HcoDir/v2020-07/EDGAR/%y4/EDGAR_waste_%y4_Hg.nc
 
 #==============================================================================
 # --- Emissions Controls for Coal Fired Power Plants ---
@@ -463,24 +463,24 @@ TIMEZONES count N V - none none UTC_OFFSET ./HcoDir/TIMEZONES/v2015-02/timezones
 #==============================================================================
 # --- Oxidant fields ---
 #==============================================================================
-GLOBAL_Cl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Cl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_ClO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_ClO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_HNO3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HNO3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_HO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_HOCl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HOCl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_NO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_NO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_O3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_O3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_OH  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OH ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_OA  1 N Y F%y4-%m2-01T00:00:00 none none TotalOA ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.AerosolMass.%y4%m201_0000z.nc4
+GLOBAL_Cl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Cl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_ClO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_ClO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_HNO3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HNO3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_HO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_HOCl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HOCl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_NO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_NO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_O3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_O3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_OH  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OH ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_OA  1 N Y F%y4-%m2-01T00:00:00 none none TotalOA ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.AerosolMass.%y4%m2%d2_0000z.nc4
 GLOBAL_OCEAN  1 Y Y F2007-%m2-01T00:00:00 none none ocean_conc ./HcoDir/MERCURY/v2018-04/ocean_fixed.nc
 #
 #==============================================================================
 # --- BrOx fields ---
 #==============================================================================
-Br_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Br ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-BrO_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+Br_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Br ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+BrO_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
 
 Br_TOMCAT  pptv Y Y F1985-%m2-01T00:00:00 none none LBRO2N ./HcoDir/MERCURY/v2014-09/BrOx/BrOx.GMI.geos5.2x25.nc
 BrO_TOMCAT  pptv Y Y F1985-%m2-01T00:00:00 none none LBRO2H ./HcoDir/MERCURY/v2014-09/BrOx/BrOx.GMI.geos5.2x25.nc
@@ -488,20 +488,20 @@ BrO_TOMCAT  pptv Y Y F1985-%m2-01T00:00:00 none none LBRO2H ./HcoDir/MERCURY/v20
 #==============================================================================
 # --- J-value fields ---
 #==============================================================================
-JBrO  1 N Y F%y4-%m2-01T00:00:00 none none Jval_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m201_0000z.nc4
-JNO2  1 N Y F%y4-%m2-01T00:00:00 none none Jval_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m201_0000z.nc4
+JBrO  1 N Y F%y4-%m2-01T00:00:00 none none Jval_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m2%d2_0000z.nc4
+JNO2  1 N Y F%y4-%m2-01T00:00:00 none none Jval_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m2%d2_0000z.nc4
 
 #==============================================================================
 # --- Aerosol data for Hg2 partitioning ---
 #==============================================================================
-GLOBAL_SO4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_SO4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_NH4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NH4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_BCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_BCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_OCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_OCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
-GLOBAL_DST1  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_DST1 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_SO4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_SO4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_NH4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NH4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_BCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_BCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_OCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_OCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+GLOBAL_DST1  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_DST1 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
 
 #==============================================================================
 # --- Data for the ocean mercury module ---
@@ -518,7 +518,7 @@ OCEAN_dMLD2  cm/s Y Y F1985-%m2-01T00:00:00 none none dMLD2 ./HcoDir/MERCURY/v20
 #==============================================================================
 # --- TOMS/SBUV overhead ozone columns ---
 #==============================================================================
-TOMS_O3_COL  dobsons N Y F%y4-%m2-01T00:00:00 none none TOMS ./HcoDir/TOMS_SBUV/v2015-03/TOMS_O3col_$YYYY.geos.1x1.nc
+TOMS_O3_COL  dobsons N Y F%y4-%m2-01T00:00:00 none none TOMS ./HcoDir/TOMS_SBUV/v2015-03/TOMS_O3col_%y4.geos.1x1.nc
 TOMS_O3_PD   dobsons Y Y F1985-%m2-01T00:00:00 none none TOMS_PD ./HcoDir/TOMS_SBUV/v2015-03/TOMS_O3col_presentday.geos.2x25.nc
 TOMS_O3_LT   dobsons Y Y F1985-%m2-01T00:00:00 none none TOMS_LT ./HcoDir/TOMS_SBUV/v2015-03/TOMS_O3col_longterm.geos.2x25.nc
 ###############################################################################

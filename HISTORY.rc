@@ -55,7 +55,7 @@ GRID_LABELS: PE24x144-CF
 # (e.g. to get around an "input file too long" error in MAPL)
 #==============================================================================
 COLLECTIONS: 'Restart',
-             'MercuryEmis',
+             #'MercuryEmis',
              'MercuryChem',
              #'MercuryOcean',
              'SpeciesConc',
