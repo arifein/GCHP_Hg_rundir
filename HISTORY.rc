@@ -55,7 +55,7 @@ GRID_LABELS: PE24x144-CF
 # (e.g. to get around an "input file too long" error in MAPL)
 #==============================================================================
 COLLECTIONS: 'Restart',
-             #'MercuryEmis',
+             'MercuryEmis',
              'MercuryChem',
              #'MercuryOcean',
              'SpeciesConc',
@@ -295,8 +295,8 @@ COLLECTIONS: 'Restart',
 # Available for the Hg and tagged Hg simulations
 #==============================================================================
   MercuryEmis.template:       '%y4%m2%d2_%h2%n2z.nc4',
-  MercuryEmis.frequency:      00000001 000000
-  MercuryEmis.duration:       00000100 000000
+  MercuryEmis.frequency:      010000
+  MercuryEmis.duration:       010000
   MercuryEmis.mode:           'time-averaged'
   MercuryEmis.fields:         'EmisHg0anthro                 ', 'GCHPchem',
                               'EmisHg0biomass                ', 'GCHPchem',
@@ -319,8 +319,8 @@ COLLECTIONS: 'Restart',
 # Available for the Hg and tagged Hg simulations
 #==============================================================================
   MercuryChem.template:       '%y4%m2%d2_%h2%n2z.nc4',
-  MercuryChem.frequency:      00000001 000000
-  MercuryChem.duration:       00000100 000000
+  MercuryChem.frequency:      010000
+  MercuryChem.duration:       010000
   MercuryChem.mode:           'time-averaged'
   MercuryChem.fields:         'ConcBr                        ', 'GCHPchem',
                               'ConcBrO                       ', 'GCHPchem',
@@ -352,8 +352,8 @@ COLLECTIONS: 'Restart',
 # Available for the Hg and tagged Hg simulations
 #==============================================================================
   MercuryOcean.template:      '%y4%m2%d2_%h2%n2z.nc4',
-  MercuryOcean.frequency:     00000100 000000
-  MercuryOcean.duration:      00000100 000000
+  MercuryOcean.frequency:     010000
+  MercuryOcean.duration:      010000
   MercuryOcean.mode:          'time-averaged'
   MercuryOcean.fields:        'FluxHg0fromAirToOcean         ', 'GCHPchem',
                               'FluxHg0fromOceanToAir         ', 'GCHPchem',
