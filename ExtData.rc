@@ -463,24 +463,24 @@ TIMEZONES count N V - none none UTC_OFFSET ./HcoDir/TIMEZONES/v2015-02/timezones
 #==============================================================================
 # --- Oxidant fields ---
 #==============================================================================
-GLOBAL_Cl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Cl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_ClO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_ClO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_HNO3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HNO3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_HO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_HOCl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HOCl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_NO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_NO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_O3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_O3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_OH  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OH ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-GLOBAL_OA  1 N Y F%y4-%m2-01T00:00:00 none none TotalOA ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.AerosolMass.%y4%m2%d2_0000z.nc4
+GLOBAL_Cl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Cl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_ClO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_ClO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_HNO3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HNO3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_HO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_HOCl  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_HOCl ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_NO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_NO2  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_O3  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_O3 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_OH  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OH ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+GLOBAL_OA  1 N Y F%y4-%m2-01T00:00:00 none none TotalOA ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.AerosolMass.%y4%m201_0000z.nc4
 GLOBAL_OCEAN  1 Y Y F2007-%m2-01T00:00:00 none none ocean_conc ./HcoDir/MERCURY/v2018-04/ocean_fixed.nc
 #
 #==============================================================================
 # --- BrOx fields ---
 #==============================================================================
-Br_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Br ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-BrO_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+Br_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_Br ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+BrO_GC  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
 
 Br_TOMCAT  pptv Y Y F1985-%m2-01T00:00:00 none none LBRO2N ./HcoDir/MERCURY/v2014-09/BrOx/BrOx.GMI.geos5.2x25.nc
 BrO_TOMCAT  pptv Y Y F1985-%m2-01T00:00:00 none none LBRO2H ./HcoDir/MERCURY/v2014-09/BrOx/BrOx.GMI.geos5.2x25.nc
@@ -488,20 +488,20 @@ BrO_TOMCAT  pptv Y Y F1985-%m2-01T00:00:00 none none LBRO2H ./HcoDir/MERCURY/v20
 #==============================================================================
 # --- J-value fields ---
 #==============================================================================
-JBrO  1 N Y F%y4-%m2-01T00:00:00 none none Jval_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m2%d2_0000z.nc4
-JNO2  1 N Y F%y4-%m2-01T00:00:00 none none Jval_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m2%d2_0000z.nc4
+JBrO  1 N Y F%y4-%m2-01T00:00:00 none none Jval_BrO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m201_0000z.nc4
+JNO2  1 N Y F%y4-%m2-01T00:00:00 none none Jval_NO2 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.JValues.%y4%m201_0000z.nc4
 
 #==============================================================================
 # --- Aerosol data for Hg2 partitioning ---
 #==============================================================================
-AERO_SO4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_SO4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-AERO_NH4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NH4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-AERO_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-AERO_BCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-AERO_BCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-AERO_OCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-AERO_OCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
-AERO_DST1  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_DST1 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m2%d2_0000z.nc4
+AERO_SO4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_SO4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+AERO_NH4  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NH4 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+AERO_NIT  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_NIT ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+AERO_BCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+AERO_BCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_BCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+AERO_OCPI  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPI ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+AERO_OCPO  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_OCPO ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
+AERO_DST1  1 N Y F%y4-%m2-01T00:00:00 none none SpeciesConc_DST1 ./HcoDir/GCClassic_Output/13.0.0/%y4/GEOSChem.SpeciesConc.%y4%m201_0000z.nc4
 
 #==============================================================================
 # --- Data for the ocean mercury module ---
