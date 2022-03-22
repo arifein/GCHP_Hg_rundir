@@ -70,8 +70,8 @@ TARGET_LON=170.0
 #    Simulation start, end, duration
 #------------------------------------------------
 Start_Time="20190701 000000"
-End_Time="20190801 000000"
-Duration="00000100 000000"
+End_Time="20190704 000000"
+Duration="00000003 000000"
 #
 # Duration should be less than or equal to the difference between start
 # and end time. If end time is past start time plus duration, the simulation
@@ -156,12 +156,11 @@ AutoUpdate_Diagnostics=ON
 timeAvg_monthly="0"
 
 # Frequency and duration (ignored if monthly diagnostics on)
-timeAvg_freq="00000001 000000"
-timeAvg_dur="00000001 000000"
+timeAvg_freq="010000"
+timeAvg_dur="010000"
 
 # Time-averaged HISTORY.rc collections to auto-update
-timeAvg_collections=(Restart        \
-                     MercuryEmis    \
+timeAvg_collections=(MercuryEmis    \
                      MercuryChem    \
                      MercuryOcean   \
                      SpeciesConc    \

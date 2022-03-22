@@ -1,8 +1,8 @@
 #!/bin/bash
 
-#SBATCH -n 6
+#SBATCH -n 24
 #SBATCH -N 1
-#SBATCH -t 0-0:10
+#SBATCH -t 0-30:00
 #SBATCH -p fdr
 #SBATCH --mem=32000
 #SBATCH --mail-type=ALL

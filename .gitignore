@@ -20,3 +20,4 @@ setEnvironment
 *.out
 runScriptSamples
 utils/
+.ipynb_checkpoints/*

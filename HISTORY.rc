@@ -1,6 +1,6 @@
 EXPID:  OutputDir/GEOSChem
 EXPDSC: GEOS-Chem_devel
-CoresPerNode: 6
+CoresPerNode: 24
 VERSION: 1
 
 #==============================================================================
@@ -118,8 +118,8 @@ COLLECTIONS: 'Restart',
 # Available for all simulations
 #==============================================================================
   Restart.filename:           './GEOSChem.Restart.%y4%m2%d2_%h2%n2z.nc4',
-  Restart.frequency:          'End',
-  Restart.duration:           'End',
+  Restart.frequency:          'End',  
+  Restart.duration:           'End', 
   Restart.mode:               'instantaneous'
   Restart.fields:             'SpeciesRst_Hg0                 ', 'GCHPchem',
                               'SpeciesRst_Hg2                 ', 'GCHPchem',
