@@ -43,9 +43,9 @@
 #------------------------------------------------
 #   Compute resources
 #------------------------------------------------
-TOTAL_CORES=6
+TOTAL_CORES=24
 NUM_NODES=1
-NUM_CORES_PER_NODE=6
+NUM_CORES_PER_NODE=24
 # Set number of cores, number of nodes, and number of cores per node.
 # Total cores must be divisible by 6. Cores per node must equal number
 # of cores divided by number of nodes. Make sure you have these
@@ -70,8 +70,8 @@ TARGET_LON=170.0
 #    Simulation start, end, duration
 #------------------------------------------------
 Start_Time="20190701 000000"
-End_Time="20190701 010000"
-Duration="00000000 010000"
+End_Time="20190801 000000"
+Duration="00000100 000000"
 #
 # Duration should be less than or equal to the difference between start
 # and end time. If end time is past start time plus duration, the simulation
@@ -156,28 +156,17 @@ AutoUpdate_Diagnostics=ON
 timeAvg_monthly="0"
 
 # Frequency and duration (ignored if monthly diagnostics on)
-timeAvg_freq="010000"
-timeAvg_dur="010000"
+timeAvg_freq="00000001 000000"
+timeAvg_dur="00000001 000000"
 
 # Time-averaged HISTORY.rc collections to auto-update
-timeAvg_collections=(SpeciesConc    \
-                     AerosolMass    \
-                     Aerosols       \
-                     Budget         \
-                     CloudConvFlux  \
-                     ConcAfterChem  \
+timeAvg_collections=(Restart        \
+                     MercuryEmis    \
+                     MercuryChem    \
+                     MercuryOcean   \
+                     SpeciesConc    \
                      DryDep         \
-                     Emissions      \
-                     JValues        \
-                     KppDiags       \
-                     LevelEdgeDiags \
-                     Metrics        \
-                     ProdLoss       \
-                     RadioNuclide   \
-                     RRTMG 	    \
-                     StateChm	    \
                      StateMet       \
-                     Transport	    \
                      WetLossConv    \
                      WetLossLS      \
 )
@@ -185,8 +174,7 @@ timeAvg_collections=(SpeciesConc    \
 # Instantaneous collection settings to auto-update (monthly diag does not apply)
 inst_freq="010000"
 inst_dur="010000"
-inst_collections=(ConcAboveSfc      \
-)
+inst_collections=() 
 # Set frequency and duration for time-averaged and instantaneous collections.
 # Optionally set monthly for time-averaged collections. This option is only
 # functional if start time is the first day and time of the month.
